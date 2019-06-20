@@ -1,0 +1,9 @@
+.Friend {
+    color: #fff;
+    display: flex;
+    margin: 10px;
+}
+.FriendImage {
+    border-radius: 24px;
+    margin-right: 10px;
+}
